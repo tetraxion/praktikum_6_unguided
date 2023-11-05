@@ -6,7 +6,7 @@ class soto extends StatelessWidget {
     return Scaffold(
       backgroundColor: Color.fromARGB(255, 200, 253, 255),
       appBar: AppBar(
-        title: Text('Lontong Kupang'),
+        title: Text('Soto'),
       ),
       body: Padding(
         padding: EdgeInsets.all(20.0),
